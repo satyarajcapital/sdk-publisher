@@ -1,0 +1,27 @@
+{
+  "name": "@satyarajcapital/sdk-publisher",
+  "version": "1.0.0",
+  "description": "A simple test package for GitHub Packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satyarajcapital/sdk-publisher.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "test",
+    "github-packages",
+    "npm"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/satyarajcapital/sdk-publisher/issues"
+  },
+  "homepage": "https://github.com/satyarajcapital/sdk-publisher#readme"
+}
